@@ -1,1 +1,12 @@
 remote_theme: samarsault/texture
+texture:
+  # update your name
+  title: Ada Lovelace
+  tagline: Web Developer
+  date_format: "%b %-d, %Y"
+
+  # update social links, remove to hide
+  social_links:
+    twitter: dgtlcrafts
+    github:  digitalcrafts
+    linkedIn: in/digitalcrafts # format: locale/username
